@@ -1,0 +1,11 @@
+@media(max-width:910px){
+   .nav-links{
+    display: none;
+   } 
+
+   fa-bars{
+    display: flex !important;
+    font-size: 26px;
+    cursor: pointer;
+   }
+}
